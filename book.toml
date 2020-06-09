@@ -1,0 +1,6 @@
+[book]
+authors = ["Jonathan Dursi", "Amanjeev Sethi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Frog and Toad: Federated Genomics Data"
